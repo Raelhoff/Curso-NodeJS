@@ -1,0 +1,8 @@
+{
+  "name": "c-struc net - (TCP)",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+   	"c-struct":"*" 
+  }
+}
